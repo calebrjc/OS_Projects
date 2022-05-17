@@ -1,0 +1,3 @@
+[submodule "wc"]
+	path = wc
+	url = https://github.com/calebrjc/wc.git
